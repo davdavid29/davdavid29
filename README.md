@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Introducing Myself
+# Introducing Myself
 I'm Maverick, a data focused professional (data driven) with strong problem solving skills and experience in designing and building large scale data platforms and analytics solutions. Dedicated to delivering results through meticulous attention to detail and strong communication skills. Has a basic background on cloud computing and experience in designing and implementing cloud-based solutions for data management and analytics. Excited about the opportunity to be involved in the development of enterprise-biased solutions and always looking for ways to improve and grow in field.
 
+## Welcome to my portfolio!  
+
 ### Projects
-Welcome to my portfolio, where I showcase my projects.
+Click here to view all my [projects](https://github.com/davdavid29/Projects).
 
 ### Skills & Technologies
 * SQL Querying (T-SQL, MySQL, Oracle SQL, PostgreSQL)
