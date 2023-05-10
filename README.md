@@ -20,7 +20,7 @@ I'm Maverick, a data focused professional (data driven) with strong problem solv
 
 ### Table of contents
 * [Projects](https://github.com/davdavid29/Projects-Overview)
-* [Professional Trainings and Certifications]
+* [Professional Trainings and Certifications](https://github.com/davdavid29/Trainings-and-Certifications)
 * [Skills & Technologies](#skills-&-technologies)
 
 ### Skills & Technologies
