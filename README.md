@@ -18,8 +18,10 @@ I'm Maverick, a data focused professional (data driven) with strong problem solv
 
 ## Welcome to my portfolio!  
 
-### Projects
-Click here to view all my [projects](https://github.com/davdavid29/Projects-Overview).
+### Table of contents
+* [Projects](https://github.com/davdavid29/Projects-Overview)
+* [Professional Trainings and Certifications]
+* [Skills & Technologies](#skills-&-technologies)
 
 ### Skills & Technologies
 * SQL Querying (T-SQL, MySQL, Oracle SQL, PostgreSQL)
