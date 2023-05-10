@@ -67,4 +67,4 @@ I'm interested in a wide range of topics related to data engineering and softwar
 * Building PC (Installing Hardware, Software and OS)
 
 ### How to reach me
-If you'd like to get in touch with me, you can reach me on [LinkedIn](https://www.linkedin.com/in/maverick-dave-aguinaldo/) or on my [email](maverickdaveaguinaldo@gmail.com). I'm always happy to chat with fellow developers!
+If you'd like to get in touch with me, you can reach me on [LinkedIn](https://www.linkedin.com/in/maverick-dave-aguinaldo/) or on my [email](mailto:maverickdaveaguinaldo@gmail.com). I'm always happy to chat with fellow developers!
