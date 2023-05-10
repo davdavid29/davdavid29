@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 -->
 
 # Introducing Myself
-I'm Maverick, a data focused professional (data driven) with strong problem solving skills and experience in designing and building large scale data platforms and analytics solutions. Dedicated to delivering results through meticulous attention to detail and strong communication skills. Has a basic background on cloud computing and experience in designing and implementing cloud-based solutions for data management and analytics. Excited about the opportunity to be involved in the development of enterprise-biased solutions and always looking for ways to improve and grow in field.
+
+<p align="center">
+<img src="images/linkedin-cover.png" alt="AWS Educate" height="auto" width="1000">
+</p>
+
+Hi! I'm Maverick, I'm a career-oriented person who loves pushing myself to be the best professional I can be. I'm always looking for new opportunities and challenges to grow in my field. As a data focused professional (data driven) with strong problem solving skills and experience in designing and building large scale data platforms and analytics solutions, I am dedicated to delivering results through meticulous attention to detail and strong communication skills. A basic background on cloud computing and experience in designing and implementing cloud-based solutions for data management and analytics. I am excited about the opportunity to be involved in the development of enterprise-biased solutions and am always looking for ways to improve and grow in my field.
 
 ## Welcome to my portfolio!  
+
+<p align="center">
+  <img src="images/3D_portfolio_profile.gif" alt="AWS Educate" height="auto" width="500">
+</p>
 
 ### Table of contents
 * [Projects](https://github.com/davdavid29/Projects-Overview)
