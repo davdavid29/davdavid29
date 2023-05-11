@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm Maverick, a **SQL Developer - Senior Consultant** based in the Philippines. I specialize in data engineering and I'm passionate about building high-quality software that solves real-world problems.
+I'm Maverick, a **SQL Developer - Senior Consultant** based in the Philippines. I specialize in software and data engineering and I'm passionate about building high-quality software that solves real-world problems.
 
 I'm a career-oriented person who loves pushing myself to be the best professional I can be. I'm always looking for new opportunities and challenges to grow in my field. As a data focused professional (data driven) with strong problem solving skills and experience in designing and building large scale data platforms and analytics solutions, I am dedicated to delivering results through meticulous attention to detail and strong communication skills. A basic background on cloud computing and experience in designing and implementing cloud-based solutions for data management and analytics. I am excited about the opportunity to be involved in the development of enterprise-biased solutions and am always looking for ways to improve and grow in my field.
 
