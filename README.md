@@ -33,10 +33,10 @@ I'm a career-oriented person who loves pushing myself to be the best professiona
 
 ### Table of contents
 * [Projects](https://github.com/davdavid29/Projects-Overview)
-* [Professional Trainings and Certifications](https://github.com/davdavid29/Trainings-and-Certifications)
+* [Professional trainings and certifications](https://github.com/davdavid29/Trainings-and-Certifications)
 * [What I'm working on](#what-im-working-on)
 * [What I'm interested in](#what-im-interested-in)
-* [My Skills & Technologies](#my-skills--technologies)
+* [My skills & technologies](#my-skills--technologies)
 * [How to reach me](#how-to-reach-me)
 
 ### What I'm working on
