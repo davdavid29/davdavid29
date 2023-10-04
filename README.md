@@ -45,12 +45,16 @@ Right now, I'm working on a data pipeline for a leading global and independent m
 ### What I'm interested in
 I'm interested in a wide range of topics related to data engineering and software engineering, including:
 
-* Data modeling
-* Data warehousing
+* Data modelling
+* Relational and Non-relational data
 * ETL pipelines
-* Cloud computing
+* Cloud
 * Big data technologies
 * Software architecture
+
+As well as
+* 3D Modelling
+* PC Building
 
 ### My Skills & Technologies
 * SQL Querying (T-SQL, MySQL, Oracle SQL, PostgreSQL)
