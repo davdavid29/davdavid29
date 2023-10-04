@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Introducing Myself
 
 <p align="center">
-<img src="images/linkedin-cover.png" alt="AWS Educate" height="auto" width="1000">
+<img src="images/linkedin-cover2.png" alt="AWS Educate" height="auto" width="1000">
 </p>
 
 # Hi there! 👋
